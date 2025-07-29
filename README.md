@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# WP_CW5 - React Produce Search Application
+
+This is a React application built for CSC 4370 Classwork 5. It features a produce search and filtering system with a modern, responsive design.
+
+## Features
+
+- **HelloWorld Component**: Displays a personalized greeting
+- **Counter Component**: Interactive counter with increment functionality
+- **FilteredList Component**: Advanced filtering system with:
+  - Search functionality by produce name
+  - Dropdown filter by type (All, Fruit, Vegetable)
+  - Real-time filtering combining both search and dropdown filters
+- **Custom Styling**: Professional CSS design with gradients, animations, and responsive layout
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
